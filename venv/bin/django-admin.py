@@ -1,4 +1,4 @@
-#!/Users/wxl/python/tutorial/venv/bin/python
+#!/home/wxl/PycharmProjects/django_tutorial/venv/bin/python
 from django.core import management
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-#!/Users/wxl/python/tutorial/venv/bin/python
+#!/home/wxl/PycharmProjects/django_tutorial/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
